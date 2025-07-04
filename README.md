@@ -23,7 +23,7 @@ You have two options for running this bot. Choose the one that best fits your ne
 This method is recommended for a quick, zero-configuration setup. It downloads and runs a setup script with a single command.
 
 ```bash
-wget [https://raw.githubusercontent.com/airdropalc/Tusky-Auto-Upload/refs/heads/main/tusky.sh](https://raw.githubusercontent.com/airdropalc/Tusky-Auto-Upload/refs/heads/main/tusky.sh) -O Tusky.sh && chmod +x Tusky.sh && ./Tusky.sh
+wget https://raw.githubusercontent.com/airdropalc/Tusky-Auto-Upload/refs/heads/main/tusky.sh -O Tusky.sh && chmod +x Tusky.sh && ./Tusky.sh
 ```
 
 ---
